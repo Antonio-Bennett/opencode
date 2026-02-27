@@ -754,4 +754,9 @@ export const dict = {
   "common.time.daysAgo.short": "{{count}} dni temu",
   "settings.providers.connected.environmentDescription": "Połączono ze zmiennymi środowiskowymi",
   "settings.providers.custom.description": "Dodaj dostawcę zgodnego z OpenAI poprzez podstawowy URL.",
+  "settings.archive.title": "Zarchiwizowane sesje",
+  "settings.archive.description": "Przywróć zarchiwizowane sesje, aby były widoczne na pasku bocznym.",
+  "settings.archive.none": "Brak zarchiwizowanych sesji.",
+  "settings.archive.scope.all": "Wszystkie projekty",
+  "settings.archive.scope.current": "Bieżący projekt",
 }

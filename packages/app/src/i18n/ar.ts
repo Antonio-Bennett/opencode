@@ -748,4 +748,9 @@ export const dict = {
   "common.time.daysAgo.short": "قبل {{count}} ي",
   "settings.providers.connected.environmentDescription": "متصل من متغيرات البيئة الخاصة بك",
   "settings.providers.custom.description": "أضف مزود متوافق مع OpenAI بواسطة عنوان URL الأساسي.",
+  "settings.archive.title": "الجلسات المؤرشفة",
+  "settings.archive.description": "استعادة الجلسات المؤرشفة لجعلها مرئية في الشريط الجانبي.",
+  "settings.archive.none": "لا توجد جلسات مؤرشفة.",
+  "settings.archive.scope.all": "جميع المشاريع",
+  "settings.archive.scope.current": "المشروع الحالي",
 }

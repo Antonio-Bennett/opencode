@@ -835,4 +835,10 @@ export const dict = {
   "common.time.daysAgo.short": "{{count}} d siden",
   "settings.providers.connected.environmentDescription": "Koblet til fra miljøvariablene dine",
   "settings.providers.custom.description": "Legg til en OpenAI-kompatibel leverandør via basis-URL.",
+
+  "settings.archive.title": "Arkiverte økter",
+  "settings.archive.description": "Gjenopprett arkiverte økter for å gjøre dem synlige i sidefeltet.",
+  "settings.archive.none": "Ingen arkiverte økter.",
+  "settings.archive.scope.all": "Alle prosjekter",
+  "settings.archive.scope.current": "Nåværende prosjekt",
 } satisfies Partial<Record<Keys, string>>

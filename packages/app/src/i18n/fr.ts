@@ -763,4 +763,9 @@ export const dict = {
   "common.time.daysAgo.short": "il y a {{count}}j",
   "settings.providers.connected.environmentDescription": "Connecté à partir de vos variables d'environnement",
   "settings.providers.custom.description": "Ajouter un fournisseur compatible avec OpenAI via l'URL de base.",
+  "settings.archive.title": "Sessions archivées",
+  "settings.archive.description": "Restaurez les sessions archivées pour les rendre visibles dans la barre latérale.",
+  "settings.archive.none": "Aucune session archivée.",
+  "settings.archive.scope.all": "Tous les Projets",
+  "settings.archive.scope.current": "Projet actuel",
 }

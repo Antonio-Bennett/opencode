@@ -825,4 +825,10 @@ export const dict = {
   "common.time.daysAgo.short": "{{count}} วันที่แล้ว",
   "settings.providers.connected.environmentDescription": "เชื่อมต่อจากตัวแปรสภาพแวดล้อมของคุณ",
   "settings.providers.custom.description": "เพิ่มผู้ให้บริการที่รองรับ OpenAI ด้วย URL หลัก",
+
+  "settings.archive.title": "เซสชันที่จัดเก็บ",
+  "settings.archive.description": "กู้คืนเซสชันที่จัดเก็บเพื่อให้แสดงในแถบด้านข้าง",
+  "settings.archive.none": "ไม่มีเซสชันที่จัดเก็บ",
+  "settings.archive.scope.all": "โปรเจกต์ทั้งหมด",
+  "settings.archive.scope.current": "โปรเจกต์ปัจจุบัน",
 }

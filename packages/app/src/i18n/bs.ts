@@ -833,4 +833,9 @@ export const dict = {
   "common.time.daysAgo.short": "prije {{count}} d",
   "settings.providers.connected.environmentDescription": "Povezano sa vašim varijablama okruženja",
   "settings.providers.custom.description": "Dodajte provajdera kompatibilnog s OpenAI putem osnovnog URL-a.",
+  "settings.archive.title": "Arhivirane sesije",
+  "settings.archive.description": "Vrati arhivirane sesije da bi bile vidljive u bočnoj traci.",
+  "settings.archive.none": "Nema arhiviranih sesija.",
+  "settings.archive.scope.all": "Svi projekti",
+  "settings.archive.scope.current": "Trenutni projekt",
 }

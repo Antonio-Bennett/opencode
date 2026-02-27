@@ -818,4 +818,10 @@ export const dict = {
   "common.time.daysAgo.short": "{{count}}天前",
   "settings.providers.connected.environmentDescription": "已從環境變數連線",
   "settings.providers.custom.description": "透過基本 URL 新增與 OpenAI 相容的提供者。",
+
+  "settings.archive.title": "封存工作階段",
+  "settings.archive.description": "恢復封存的工作階段以使其在側邊欄中可見。",
+  "settings.archive.none": "沒有封存的工作階段。",
+  "settings.archive.scope.all": "所有專案",
+  "settings.archive.scope.current": "目前專案",
 } satisfies Partial<Record<Keys, string>>

@@ -765,4 +765,10 @@ export const dict = {
   "common.time.daysAgo.short": "vor {{count}} Tg",
   "settings.providers.connected.environmentDescription": "Verbunden aus Ihren Umgebungsvariablen",
   "settings.providers.custom.description": "Fügen Sie einen OpenAI-kompatiblen Anbieter per Basis-URL hinzu.",
+
+  "settings.archive.title": "Archivierte Sitzungen",
+  "settings.archive.description": "Archivierte Sitzungen wiederherstellen, um sie in der Seitenleiste anzuzeigen.",
+  "settings.archive.none": "Keine archivierten Sitzungen.",
+  "settings.archive.scope.all": "Alle Projekte",
+  "settings.archive.scope.current": "Aktuelles Projekt",
 } satisfies Partial<Record<Keys, string>>

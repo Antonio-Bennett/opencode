@@ -827,4 +827,9 @@ export const dict = {
   "common.time.daysAgo.short": "{{count}}d siden",
   "settings.providers.connected.environmentDescription": "Tilsluttet fra dine miljøvariabler",
   "settings.providers.custom.description": "Tilføj en OpenAI-kompatibel udbyder via basis-URL.",
+  "settings.archive.title": "Arkiverede sessioner",
+  "settings.archive.description": "Gendan arkiverede sessioner for at gøre dem synlige i sidebjælken.",
+  "settings.archive.none": "Ingen arkiverede sessioner.",
+  "settings.archive.scope.all": "Alle projekter",
+  "settings.archive.scope.current": "Nuværende projekt",
 }

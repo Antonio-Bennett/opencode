@@ -823,4 +823,10 @@ export const dict = {
   "common.time.daysAgo.short": "{{count}}天前",
   "settings.providers.connected.environmentDescription": "已通过环境变量连接",
   "settings.providers.custom.description": "通过基础 URL 添加与 OpenAI 兼容的提供商。",
+
+  "settings.archive.title": "归档会话",
+  "settings.archive.description": "恢复归档会话以使其在侧边栏中可见。",
+  "settings.archive.none": "没有归档会话。",
+  "settings.archive.scope.all": "所有项目",
+  "settings.archive.scope.current": "当前项目",
 } satisfies Partial<Record<Keys, string>>

@@ -835,4 +835,9 @@ export const dict = {
   "common.time.daysAgo.short": "{{count}} д назад",
   "settings.providers.connected.environmentDescription": "Подключено из ваших переменных окружения",
   "settings.providers.custom.description": "Добавить провайдера, совместимого с OpenAI, по базовому URL.",
+  "settings.archive.title": "Архивированные сессии",
+  "settings.archive.description": "Восстановите архивированные сессии, чтобы они отображались на боковой панели.",
+  "settings.archive.none": "Нет архивированных сессий.",
+  "settings.archive.scope.all": "Все проекты",
+  "settings.archive.scope.current": "Текущий проект",
 }

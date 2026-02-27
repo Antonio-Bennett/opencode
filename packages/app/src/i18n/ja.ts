@@ -752,4 +752,10 @@ export const dict = {
   "common.time.daysAgo.short": "{{count}} 日前",
   "settings.providers.connected.environmentDescription": "環境変数から接続されました",
   "settings.providers.custom.description": "ベース URL を指定して OpenAI 互換のプロバイダーを追加します。",
+
+  "settings.archive.title": "アーカイブされたセッション",
+  "settings.archive.description": "アーカイブされたセッションを復元してサイドバーに表示します。",
+  "settings.archive.none": "アーカイブされたセッションはありません。",
+  "settings.archive.scope.all": "すべてのプロジェクト",
+  "settings.archive.scope.current": "現在のプロジェクト",
 }

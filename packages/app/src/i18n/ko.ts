@@ -752,4 +752,10 @@ export const dict = {
   "common.time.daysAgo.short": "{{count}}일 전",
   "settings.providers.connected.environmentDescription": "환경 변수에서 연결됨",
   "settings.providers.custom.description": "기본 URL로 OpenAI 호환 공급자를 추가합니다.",
+
+  "settings.archive.title": "보관된 세션",
+  "settings.archive.description": "보관된 세션을 복원하여 사이드바에 표시합니다.",
+  "settings.archive.none": "보관된 세션이 없습니다.",
+  "settings.archive.scope.all": "모든 프로젝트",
+  "settings.archive.scope.current": "현재 프로젝트",
 }
